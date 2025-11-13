@@ -36,7 +36,7 @@ class WeatherForecastWidget(QWidget):
             "--": "❓"
         }
 
-        self.api_key = "e4811e0c53e8dc16e9156d9fcb25b175"  # Replace with your actual OpenWeather API key
+        self.api_key = "your api key"  # Replace with your actual OpenWeather API key
         
         self.init_ui()
 
